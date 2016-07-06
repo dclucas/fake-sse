@@ -1,0 +1,17 @@
+{
+  "name": "fake-sse",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^13.5.0",
+    "inert": "^4.0.1",
+    "susie": "^2.0.0"
+  }
+}
